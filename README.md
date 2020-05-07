@@ -1,5 +1,5 @@
 # lab06 Diseño de banco de Registro
-
+# Estudiantes: Luis Eduardo Cardenas Ortiz     CC: 1077087937   COD: 41458
 # Introducción
 
 
