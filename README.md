@@ -5,12 +5,9 @@ Luis Eduardo Cardenas Ortiz   COD: 41458     CC:1077087937
 Mateo Luzardo Jimenez         COD: 61063     CC:1026296907
 # Introducción
 
+en este trabajo que vamos a presentar una simulacion sobre el banco de registro el cual cuenta con 4 bits de salida y 2 de entradas, muchos circuitos digitales necesitan inicializarse antes de comenzar a trabajar normalmente. Su funcionamiento se divide en un estado de arranque, donde se inicializan los valores de los registros y un estado de régimen permanente donde se realiza la función para la que han sido diseñados. 
 
-Para este paquete de trabajo, deben estar inscrito en un grupo y clonar la información del siguiente link [WP06](https://classroom.github.com/g/XHLhUCe3). Una vez aceptado el repositorio debe descargarlo en su computador, para ello debe clonar el mismo. Si no sabe cómo hacerlo revise la metodología de trabajo, donde se explica el proceso
-
-Las documentación deben estar diligencia en el archivo README.md del repositorio clonado.
-
-Una vez clone el repositorio, realice lo siguiente:
+Para lograr esto debemos generar un circuito de inicializacion de 5000 giros por segundo " hay que tener en cuenta que este dato solo es necesario para la pagina web de laboratorios en linea el cual es LABSLAND" Al llegar el primer flanco de reloj, se captura el 1 y se saca por su salida, generando el flanco de subida para realizar la inicialización. Para el resto de ciclos de reloj esta señal siempre estará a 1
 
 
 ## Descipción 
