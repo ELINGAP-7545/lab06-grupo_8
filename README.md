@@ -163,7 +163,8 @@ end
 end
       
 endmodule
-
+```
+## simulacion quartus
 
 ## Descipción 
 Se debe diseñar un banco de registro tal que:
