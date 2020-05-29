@@ -165,6 +165,7 @@ end
 endmodule
 ```
 ## simulacion quartus
+![simulacion quartus](https://github.com/ELINGAP-7545/lab06-grupo_8/blob/master/simulacion%20quartus.png)
 
 ## Descipción 
 Se debe diseñar un banco de registro tal que:
